@@ -1,0 +1,273 @@
+
+#clock{
+  min-width: 210px;
+  height: 65px;
+  margin-bottom: -18px;
+  margin-right: 5px;
+  font-size: 30px !important;
+  background: rgba(0,0,0,0.2);
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: 1px solid rgba(255,255,255,0.2);
+  color: rgba(230,255,200,0.7);
+}
+}
+
+#clock div{
+  margin: auto;
+}
+
+#clock .date{
+ font-size: 15px !important;
+ margin-top:3px;
+}
+.mainContainer{
+    width: 100%; 
+    margin: 0px; 
+    padding: 0px;
+    margin-top: 0px;
+    background: rgba(0,0,0,0.2);
+    height: 100%;
+
+}
+
+.screenheader{
+    height: 40px;
+}
+.screenheader, .screenfooter{
+     background: rgba(0,0,0,0.8);
+     border-bottom: 1px solid rgba(255,255,255,0.2);
+     border-top: 1px solid rgba(255,255,255,0.2);
+
+}
+
+.chat
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+#response-container{
+    color: #ffffff;
+    padding: 30px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+
+#response-container h1{
+    font-size: 40px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.chat li
+{
+    margin-bottom: 10px;
+    padding: 5px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.chat li.left .chat-body
+{
+    text-align: left;
+}
+
+.chat li.right .chat-body
+{
+   text-align: right;
+}
+
+
+
+.chat li .chat-body p
+{
+    margin: 0px;
+    color: rgba(230,255,200,0.8);
+    font-size: 12px;
+    display:inline-block; ; 
+}
+.chat li .chat-body .header{
+    display:inline-block; ; 
+}
+
+.panel .slidedown .glyphicon, .chat .glyphicon
+{
+    margin-right: 5px;
+}
+
+.panel-body.chatpanel
+{
+    overflow-y: scroll;
+    height: 100%;
+    font-size: 12px;
+    border-left: 1px solid rgba(255,255,255,.3);
+    background: rgba(0,0,0,0.4);
+    margin: 0px;
+}
+
+.primary-font{
+    color: #eeeeee !important;
+    font-size: 10px;
+
+}
+.text-muted{
+    color: #eeeeee !important;
+    font-size: 9px;
+}
+
+.rightalign{
+    text-align: right;
+}
+
+#submitButton{
+    height: 60px;
+    background: rgba(255,255,255,.3);
+    color: #ffffff;
+    border: 1px solid rgba(255,255,255,.3);
+}
+
+#input{
+    height: 60px;
+    background: rgba(0,0,0,.3);
+    color: #ffffff;
+    border: 1px solid rgba(255,255,255,.3);
+    letter-spacing: 1px;
+}
+
+::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #222222;
+}
+
+::-webkit-scrollbar
+{
+    width: 12px;
+    background-color: #555555;
+}
+
+::-webkit-scrollbar-thumb
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
+}
+
+.chatbox{
+    width: 600px;
+    margin-top: 8px;
+     margin-left: 8px;
+     color: #444444 !important;
+}
+
+.chatbox input{
+    font-size: 14px;
+}
+
+
+.navbar-chat{
+    height: 70px;
+}
+
+/* This sets the color for "TK" nodes to a light blue green. */
+
+
+.svg-container{
+   
+   
+}
+
+.viewport-container{
+     
+}
+
+.svg-container svg{
+     margin-top; 20px !important;
+}
+
+svg .text {
+  font-weight: 300;
+  font-size: 10px;
+  color: #ffffff !important;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+svg .ner {
+  font-weight: 300;
+  font-size: 10px;
+  color: #ffffff;
+  text-align: center;
+  min-width: 20px;
+}
+
+.ner img{
+    width: 20px;
+    height: 20px;
+}
+
+text{
+    color: #ffffff !important;
+}
+
+.edgePath path.path {
+  stroke: #BBBBBB;
+  fill: none;
+  stroke-width: 1px;
+}
+
+/* This styles the title of the tooltip */
+.tipsy .name {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #60b1fc;
+  margin: 0;
+}
+
+/* This styles the body of the tooltip */
+.tipsy .description {
+  font-size: 1.2em;
+}
+
+#teststrings{
+     list-style-type: none;
+}
+#teststrings li{
+    cursor: pointer;
+    float: left;
+    margin-left: 5px;
+}
+
+#teststrings li:hover{
+    text-decoration: underline;
+}
+
+#leftform{
+    background: #3D4C53 !important;
+    color: #ffffff;
+    font-size: 14px !important;
+}
+
+.page-header{
+    margin-top: 80px !important;
+}
+
+.chart-container{
+    height: 400px;
+    border-bottom: 1px solid rgba(255,255,255,.3);
+}
+
+th {
+    background: rgba(0,0,0,0.7);
+}
+table{
+    border: 1px solid #ffffff;
+}
+td, th {
+    padding: 4px !important;
+    margin: 4px !important;
+    font-size: 14px !important;
+}

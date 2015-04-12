@@ -1,0 +1,132 @@
+body{
+	-webkit-font-smoothing: antialiased;
+	background-image: url('../images/bg.jpg');
+	background-size: cover;
+}
+
+.x-button .x-button-label ,.x-tab .x-button-label{
+	text-transform: none !important;
+}
+
+.x-layout-card-item, #loginpanel ,.x-scroll-container,.x-list,.x-list .x-list-item.x-list-item-tpl .x-innerhtml{
+	background: none !important;
+}
+
+.x-mask .x-mask-message {
+	position: absolute;
+	bottom: 5px;
+	color: #fff;
+	left: 0;
+	right: 0;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 auto;
+	flex: 0 0 auto;
+}
+
+.x-msgbox {
+	max-height: 90%;
+	width: 100%;
+	padding: 3px;
+	border: 0;
+	margin: 0;
+	max-width: 20em;
+	background-color: rgba(0,0,0,0.2);
+}
+
+.x-msgbox .x-toolbar{
+	background-color: rgba(0,0,0,0.4);
+}
+
+.x-msgbox-title{
+	min-height: 2.5em !important;
+}
+
+.x-msgbox .x-toolbar .x-innerhtml,.x-msgbox .x-msgbox-text .x-innerhtml{
+	color: #ffffff;
+}
+
+.x-msgbox-text {
+	padding: 10px;
+	text-align: center;
+	line-height: 1.4em;
+}
+
+.x-msgbox .x-toolbar .x-button{
+	background: none;
+	margin: 6px !important;
+}
+
+
+.x-form-label span{
+	color: #ffffff !important;
+}
+
+.x-form-label{
+	padding: 0px;
+}
+
+.homeButtonContainer  .x-button{
+	margin: 10px;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	-webkit-box-align: center;
+	min-height: 1.8em;
+	border: 2px solid #ffffff;
+	border-radius: 30px;
+	background: none;
+}
+
+.homeButtonContainer .x-button-icon.x-shown{
+	height: 45px !important;
+	width: 30px !important;
+	display: block !important;
+	-webkit-filter: invert(100%);
+}
+
+.innerbtn .x-button-icon{
+	height: 80px;
+	width: 50px;
+	-webkit-filter: invert(100%);
+	background-repeat: no-repeat;
+	margin:10px;
+}
+
+.innerTopbtn .x-button-icon{
+	-webkit-filter: invert(100%);
+	background-repeat: no-repeat;
+	margin:10px;
+}
+
+.btnTopToolbar .innerTopbtn {
+	background: none;
+	border: none;
+}
+.btnToolbar .innerbtn{
+	background: none;
+	border: none;
+}
+
+.toggleToolbar{
+	background: rgba(0,0,0,0.3);
+}
+
+.x-toolbar,.x-toolbar.x-docked-bottom{
+	padding: 0px;
+	background: rgba(0,0,0,0.3);
+}
+/*
+.x-field-textarea .x-component-outer .x-input-el{
+	color:#ffffff !important;
+	background: rgba(0,0,0,0.3);
+  	border: 2px solid #ffffff;
+  	-webkit-border-radius: 6px;
+  	-moz-border-radius: 6px;
+  	-ms-border-radius: 6px;
+  	-o-border-radius: 6px;
+  	border-radius: 6px;
+}
+
+.x-field-textarea .x-component-outer .x-input-el .x-input-text .x-form-field{
+	color: #ffffff;
+}*/

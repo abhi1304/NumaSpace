@@ -1,0 +1,20 @@
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes.dex : \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/com/numahub/numaspace/BuildConfig.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/com/numahub/numaspace/CordovaApp.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/com/numahub/numaspace/R$attr.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/com/numahub/numaspace/R$drawable.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/com/numahub/numaspace/R$string.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/com/numahub/numaspace/R$xml.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/com/numahub/numaspace/R.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$1.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$2.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$3.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$4.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$5$1.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$5.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$6$1.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$6.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen$7.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen.class \
+/Users/abhishekmishra/Documents/cordovaprojects/numaspace/platforms/android/ant-build/dexedLibs/classes-e4fd77725eb70b59379703f69984d4f1.jar \
