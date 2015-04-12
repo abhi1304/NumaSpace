@@ -10,4 +10,4 @@ The project was built using the following
 
 For Gesture Control, Data is collected via Accelerometer, filtered and then sent to server via Socket IO.
 
-Refer to the code above. If you have questions, Feel free to reach out to abhisheibm [at] gmail.com
+Refer to the code above. If you have questions, Feel free to reach out to abhishekibm [at] gmail.com
